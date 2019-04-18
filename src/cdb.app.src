@@ -1,5 +1,5 @@
 {application, cdb,
- [{description, "An OTP library"},
+ [{description, "An implementation of the constant database."},
   {vsn, "0.1.0"},
   {registered, []},
   {applications,
@@ -9,7 +9,6 @@
   {env,[]},
   {modules, []},
 
-  {maintainers, []},
-  {licenses, ["Apache 2.0"]},
+  {maintainers, ["Matt Kowalczyk matt.kowalczyk@gmail.com"]},
   {links, []}
  ]}.
